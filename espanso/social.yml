@@ -1,0 +1,24 @@
+# Greetings and signatures
+
+matches:
+  - trigger: "!greet"
+    replace: "Dear sir or madam,\n\n"
+
+  - trigger: "!kr"
+    replace: |
+      $|$
+      Kind Regards,
+      Jin Yi
+    label: Kind Regards
+
+  - trigger: "!best"
+    replace: |
+      $|$
+      Best,
+      Jin Yi
+    label: Best
+
+  # Email
+
+  - trigger: "!email"
+    replace: "rayneedust@gmail.com"

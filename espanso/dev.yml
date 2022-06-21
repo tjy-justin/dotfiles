@@ -1,0 +1,4 @@
+matches:
+  - trigger: "htimg"
+    replace: '<img width=60% alt="" src="$|$">'
+    label: HTML Image

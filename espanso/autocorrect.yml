@@ -1,0 +1,40 @@
+# Personal Autocorrect
+# This config only contains words not included by misspell-en, misspell-en-us, or contractions-en
+
+matches:
+  - trigger: cisnt
+    replace: cinst
+    propagate_case: true
+    word: true
+  - trigger: lets
+    replace: let's
+    propagate_case: true
+    word: true
+  - trigger: whats
+    replace: what's
+    propagate_case: true
+    word: true
+  - trigger: youll
+    replace: you'll
+    propagate_case: true
+    word: true
+  - trigger: theyll
+    replace: they'll
+    propagate_case: true
+    word: true
+  - trigger: thats
+    replace: that's
+    propagate_case: true
+    word: true
+  - trigger: btwn
+    replace: between
+    propagate_case: true
+    word: true
+  - trigger: w/
+    replace: with
+    propagate_case: true
+    word: true
+  - trigger: shes
+    replace: she's
+    propagate_case: true
+    word: true
