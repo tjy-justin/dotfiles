@@ -1,0 +1,6 @@
+[user]
+	name = Tan Jin Yi
+	email = rayneedust@gmail.com
+[core]
+	autocrlf = input
+	eol = lf
