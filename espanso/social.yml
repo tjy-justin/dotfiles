@@ -1,6 +1,6 @@
-# Greetings and signatures
-
 matches:
+  # Greetings and signatures
+
   - trigger: "!greet"
     replace: "Dear sir or madam,\n\n"
 
@@ -18,7 +18,18 @@ matches:
       Jin Yi
     label: Best
 
-  # Email
+  # Personal Details
 
   - trigger: "!email"
     replace: "rayneedust@gmail.com"
+
+  - trigger: "!gh"
+    replace: https://github.com/raineedust
+
+  # Support
+
+  - trigger: "!ag"
+    replace: "http://t.me/ameguides"
+
+  - trigger: "!ask"
+    replace: "https://stackoverflow.com/help/how-to-ask"

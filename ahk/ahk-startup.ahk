@@ -25,10 +25,10 @@ DetectHiddenWindows, On
 ;
 Files := [	; Additional Startup Files and Folders Can Be Added Between the ( Continuations  ) Below
 (Join, 
-"C:\Users\raineedust\.dotfiles\ahk\caps-window-drag.ahk"
-"C:\Users\raineedust\.dotfiles\ahk\google.ahk"
-"C:\Users\raineedust\.dotfiles\ahk\static-hands.ahk"
-"C:\Users\raineedust\.dotfiles\ahk\up-folder.ahk"
+"C:\Users\raineedust\dotfiles\ahk\caps-window-drag.ahk"
+"C:\Users\raineedust\dotfiles\ahk\google.ahk"
+"C:\Users\raineedust\dotfiles\ahk\static-hands.ahk"
+"C:\Users\raineedust\dotfiles\ahk\up-folder.ahk"
 )]
 ;}
 

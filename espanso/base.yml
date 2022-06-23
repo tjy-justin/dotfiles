@@ -2,13 +2,10 @@
 # Original file: default.yml
 
 matches:
-  - trigger: "!today"
+  - trigger: "!date"
     replace: "{{todayISO}}"
     vars:
       - name: todayISO
         type: date
         params:
           format: "%Y-%m-%d"
-
-  - trigger: "!web"
-    replace: https://github.com/raineedust
