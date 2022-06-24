@@ -29,7 +29,7 @@ matches:
   # Support
 
   - trigger: "!ag"
-    replace: "http://t.me/ameguides"
+    replace: "t.me/ameguides"
 
   - trigger: "!ask"
     replace: "https://stackoverflow.com/help/how-to-ask"
