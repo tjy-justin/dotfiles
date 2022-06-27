@@ -23,16 +23,18 @@ CapsLock & s::Alt
 CAPSLOCK & w::LWin
 
 ; Speed
+CapsLock & 8::Send, {Up 5}
 CapsLock & m::Send, {blind}^{Left 6}
 CapsLock & .::Send, {blind}^{Right 6}
+CapsLock & ,::Send, {Down 5}
 
 ; Keep window open
-CapsLock & -::Winset, Alwaysontop, , A
+CapsLock & +::Winset, Alwaysontop, , A
 
 ; Change Case
-CapsLock & 0::goSub, set_upper_case
-CapsLock & 8::goSub, set_lower_case
-CapsLock & 9::goSub, set_title_case
+CapsLock & 9::goSub, set_upper_case
+CapsLock & 0::goSub, set_lower_case
+CapsLock & -::goSub, set_title_case
 
 set_upper_case:
 set_lower_case:
@@ -43,15 +45,13 @@ send ^{c}
 clipWait, 0.3
 
 if (a_thisLabel = "set_upper_case")
-	stringUpper, clipboard, clipboard
+    stringUpper, clipboard, clipboard
 else if (a_thisLabel = "set_lower_case")
-	stringLower, clipboard, clipboard
+    stringLower, clipboard, clipboard
 else if (a_thisLabel = "set_title_case")
-	stringLower, clipboard, clipboard, T
+    stringLower, clipboard, clipboard, T
 
 send ^{v}
 sleep 50
 clipboard := revert_clipboard
 return
-
-; Credits: almogtavor
