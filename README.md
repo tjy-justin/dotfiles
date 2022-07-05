@@ -1,4 +1,4 @@
-# dotfiles
+# Dotfiles
 
 This repository contains a variety of dotfiles and config files for personal use. 👩‍💻
 

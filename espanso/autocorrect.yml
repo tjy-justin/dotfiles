@@ -26,3 +26,11 @@ matches:
     replace: she's
     propagate_case: true
     word: true
+  - trigger: shouldve
+    replace: should've
+    propagate_case: true
+    word: true
+  - trigger: shouldnt
+    replace: should'nt
+    propagate_case: true
+    word: true
