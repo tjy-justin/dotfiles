@@ -20,11 +20,17 @@ matches:
 
   # Personal Details
 
-  - trigger: "!email"
-    replace: "rayneedust@gmail.com"
+  - trigger: "!mail"
+    replace: "raineedust@protonmail.com"
 
   - trigger: "!gh"
     replace: https://github.com/raineedust
+
+  - trigger: "!in"
+    replace: http://www.linkedin.com/in/raineedust
+
+  - trigger: "!site"
+    replace: https://raineedust.netlify.app/
 
   # Support
 
