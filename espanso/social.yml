@@ -21,7 +21,7 @@ matches:
   # Personal Details
 
   - trigger: "!mail"
-    replace: "raineedust@protonmail.com"
+    replace: "raineedust@proton.me"
 
   - trigger: "!gh"
     replace: https://github.com/raineedust

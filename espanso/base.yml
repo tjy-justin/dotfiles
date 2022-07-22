@@ -10,5 +10,5 @@ matches:
         params:
           format: "%Y-%m-%d"
 
-  - trigger: "!12ft"
+  - trigger: "!12"
     replace: "12ft.io/"
