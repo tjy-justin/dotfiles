@@ -12,3 +12,6 @@ matches:
 
   - trigger: "!12"
     replace: "12ft.io/"
+
+  - trigger: "!show"
+    replace: "x265 1080p"
