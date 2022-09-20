@@ -7,24 +7,29 @@
 }
 
 body {
-  font-size: 16px;
-  text-align:justify;
-  line-height: 1.5;
-  margin-top:30px;
-  margin-bottom:30px;
-  margin-right:40px;
-  margin-left:40px;
-  line-spacing:1.8;
-  text-indent:3em;
+  text-align: justify;
+  line-height: 1.5em;
+  margin: 30px 40px 30px 40px;
+  text-indent: 3em;
 }
 
-h1, h2, h3, h4, h5, h6 {
-  text-align:center;
-  font-style:italic;
-  font-weight:bold;
+p {
+  text-rendering: optimizelegibility !important;
+  letter-spacing: 0.01em;
 }
 
-/*For reference ONLY: Default Foliate themes*/
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  text-align: center;
+  font-style: italic;
+  font-weight: bold;
+}
+
+/* For reference ONLY: Default Foliate themes
 
 const defaultThemes = [
     {
@@ -67,4 +72,4 @@ const defaultThemes = [
         theme_name: _('Nord'), dark_mode: true, invert: false,
         fg_color: '#d8dee9', bg_color: '#2e3440', link_color: '#88c0d0',
     }
-]
+] */

@@ -1,9 +1,16 @@
-# Speed up scrolling for chromium and pass unchanged for zoom
-# killall imwheel
+# This dotfile fixes scrolling issues with Chromium- or Electron-based apps.
+
+# Add imwheel as Startup Program:
 # imwheel -b "45"
+
+# Execute the following command after changing config:
+# killall imwheel
 
 ".*chrome*"
 ".*obsidian*"
+".*code*"
+".*onlyoffice*"
+
 None,      Up,   Button4, 3
 None,      Down, Button5, 3
 Control_L, Up,   Control_L|Button4
