@@ -4,7 +4,12 @@
 [core]
 	autocrlf = input
 	eol = lf
+	excludesfile = ~/.gitignore_global
 [push]
 	autoSetupRemote = true
 [safe]
 	directory = *
+[init]
+	defaultBranch = main
+[color]
+	ui = auto

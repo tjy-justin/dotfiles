@@ -1,16 +1,13 @@
 {
-  "folders": [
-    {
-      "path": "C:\\Users\\raineedust\\Downloads\\The-Odin-Journey"
-    },
-    {
-      "path": "C:\\Users\\raineedust\\Downloads\\The-Odin-Assignments"
-    },
-    {
-      "path": "C:\\Users\\raineedust\\Downloads\\The-Odin-Supplemental"
-    }
-  ],
-  "settings": {
-    "liveServer.settings.multiRootWorkspaceName": "The-Odin-Journey"
-  }
+	"folders": [
+		{
+			"path": "../../Desktop/The-Odin-Assignments"
+		},
+		{
+			"path": "../../Desktop/The-Odin-Journey"
+		},
+		{
+			"path": "../../Desktop/The-Odin-Supplemental"
+		}
+	]
 }
