@@ -27,7 +27,6 @@ Files := [	; Additional Startup Files and Folders Can Be Added Between the ( Con
 (Join, 
 "C:\Users\Justin\dotfiles\ahk\caps-window-drag.ahk"
 "C:\Users\Justin\dotfiles\ahk\google.ahk"
-"C:\Users\Justin\dotfiles\ahk\static-hands.ahk"
 "C:\Users\Justin\dotfiles\ahk\up-folder.ahk"
 )]
 ;}

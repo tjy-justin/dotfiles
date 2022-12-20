@@ -10,27 +10,61 @@ matches:
     replace: let's
     propagate_case: true
     word: true
-  - trigger: thats
-    replace: that's
-    propagate_case: true
-    word: true
-  - trigger: btwn
-    replace: between
-    propagate_case: true
-    word: true
-  - trigger: w/
-    replace: with
-    propagate_case: true
-    word: true
   - trigger: shes
     replace: she's
+    propagate_case: true
+    word: true
+  - trigger: shouldnt
+    replace: shouldn't
     propagate_case: true
     word: true
   - trigger: shouldve
     replace: should've
     propagate_case: true
     word: true
-  - trigger: shouldnt
-    replace: should'nt
+  - trigger: thats
+    replace: that's
+    propagate_case: true
+    word: true
+
+  # Abbrevs.
+  - trigger: approx
+    replace: approximately
+    propagate_case: true
+    word: true
+  - trigger: b/c
+    replace: because
+    propagate_case: true
+    word: true
+  - trigger: btwn
+    replace: between
+    propagate_case: true
+    word: true
+  - trigger: expl.
+    replace: explanation
+    propagate_case: true
+    word: true
+  - trigger: govt
+    replace: government
+    propagate_case: true
+    word: true
+  - trigger: pfp
+    replace: profile picture
+    propagate_case: true
+    word: true
+  - trigger: w/
+    replace: with
+    propagate_case: true
+    word: true
+  - trigger: re.
+    replace: regarding
+    propagate_case: true
+    word: true
+  - trigger: rec.
+    replace: recommended
+    propagate_case: true
+    word: true
+  - trigger: thru
+    replace: through
     propagate_case: true
     word: true

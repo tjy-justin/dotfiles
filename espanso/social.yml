@@ -23,6 +23,9 @@ matches:
   - trigger: "!mail"
     replace: "raineedust@proton.me"
 
+  - trigger: "!name"
+    replace: "Justin Tan"
+
   - trigger: "!gh"
     replace: "https://github.com/raineedust"
 

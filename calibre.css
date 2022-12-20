@@ -1,35 +1,28 @@
 * {
-  font-family: "Noto Sans", "Noto Serif", "JetBrains Mono" !important;
+  font-family: "Inter", "IBM Plex Serif", "JetBrainsMono NF" !important;
 }
 
 ::selection {
-  background: #008b8b;
+  background: #5697a3;
 }
 
 body {
-  text-align: justify;
-  line-height: 1.5em;
   margin: 30px 40px 30px 40px;
-  text-indent: 3em;
 }
 
 p {
-  text-rendering: optimizelegibility !important;
-  letter-spacing: 0.01em;
+  letter-spacing: 0.1px !important;
+  line-height: 25px !important;
+  text-indent: 20px !important;
 }
 
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-  text-align: center;
-  font-style: italic;
-  font-weight: bold;
+h1, h2, h3, h4, h5, h6 {
+  font-weight: bold !important;
+  line-height: 30px !important;
+  text-align: center !important;
 }
 
-/* For reference ONLY: Default Foliate themes
+/* !!! Default Foliate themes below for reference ONLY, DON’T COPY:
 
 const defaultThemes = [
     {
