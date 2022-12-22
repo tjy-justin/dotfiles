@@ -1,0 +1,769 @@
+{
+  "action-layout-context-menu": [
+    "Edit Metadata",
+    "Remove Books",
+    "Copy To Library",
+    "Browse Annotations",
+    "Polish Books",
+    "Embed Metadata"
+  ],
+  "action-layout-toolbar": [
+    "Add Books",
+    "Edit Metadata",
+    "Tweak ePub",
+    "Convert Books",
+    "Remove Books",
+    "Quality Check",
+    "Choose Library",
+    "Connect Share",
+    "Preferences"
+  ],
+  "action-layout-toolbar-device": [
+    "Add Books",
+    "Edit Metadata",
+    null,
+    "Convert Books",
+    "View",
+    "Send To Device",
+    null,
+    null,
+    "Location Manager",
+    null,
+    null,
+    "Fetch News",
+    "Save To Disk",
+    "Store",
+    "Connect Share",
+    null,
+    "Remove Books",
+    null,
+    "Help",
+    "Preferences",
+    "Quality Check"
+  ],
+  "basic_metadata_widget_splitter_state": {
+    "__class__": "bytearray",
+    "__value__": "AAAA/wAAAAEAAAADAAAA1gAAATAAAAEKAf////8BAAAAAQA="
+  },
+  "book_details_splitter_horizontal_state": [
+    true,
+    180
+  ],
+  "book_details_widget_splitter_state": {
+    "__class__": "bytearray",
+    "__value__": "AAAA/wAAAAEAAAACAAAA8wAAAQ4B/////wEAAAACAA=="
+  },
+  "book_info_dialog_splitter_state": {
+    "__class__": "bytearray",
+    "__value__": "AAAA/wAAAAEAAAACAAABXgAAAV4B/////wEAAAABAA=="
+  },
+  "book_list_extra_row_spacing": 3,
+  "book_list_pin_splitter_state": {
+    "__class__": "bytearray",
+    "__value__": "AAAA/wAAAAEAAAACAAABAAAAAEYA/////wEAAAABAA=="
+  },
+  "cover_browser_splitter_vertical_state": [
+    false,
+    300
+  ],
+  "cover_grid_color": [
+    80,
+    80,
+    80
+  ],
+  "cover_grid_texture": null,
+  "custom_colors_for_color_dialog": [
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ]
+  ],
+  "default_author_link": null,
+  "geometry-of-Plugin Updater plugin:plugin updater dialog": {
+    "frame_geometry": {
+      "height": 527,
+      "width": 849,
+      "x": 571,
+      "y": 208
+    },
+    "full_screened": false,
+    "geometry": {
+      "height": 496,
+      "width": 849,
+      "x": 571,
+      "y": 239
+    },
+    "maximized": false,
+    "normal_geometry": {
+      "height": 496,
+      "width": 849,
+      "x": 571,
+      "y": 239
+    },
+    "qt": {
+      "__class__": "bytearray",
+      "__value__": "AdnQywADAAAAAAI7AAAA0AAABYsAAALeAAACOwAAAO8AAAWLAAAC3gAAAAAAAAAAB4AAAAI7AAAA7wAABYsAAALe"
+    },
+    "screen": {
+      "depth": 32,
+      "device_pixel_ratio": 1.0,
+      "geometry_in_logical_pixels": {
+        "height": 1080,
+        "width": 1920,
+        "x": 0,
+        "y": 0
+      },
+      "index_in_screens_list": 0,
+      "manufacturer": "",
+      "model": "",
+      "name": "\\\\.\\DISPLAY1",
+      "serial": "",
+      "size_in_logical_pixels": {
+        "height": 1080,
+        "width": 1920
+      },
+      "virtual_geometry": {
+        "height": 1080,
+        "width": 1920,
+        "x": 0,
+        "y": 0
+      }
+    }
+  },
+  "geometry-of-book_info_dialog_geometry": {
+    "frame_geometry": {
+      "height": 641,
+      "width": 910,
+      "x": 527,
+      "y": 158
+    },
+    "full_screened": false,
+    "geometry": {
+      "height": 610,
+      "width": 910,
+      "x": 527,
+      "y": 189
+    },
+    "maximized": false,
+    "normal_geometry": {
+      "height": 610,
+      "width": 910,
+      "x": 527,
+      "y": 189
+    },
+    "qt": {
+      "__class__": "bytearray",
+      "__value__": "AdnQywADAAAAAAIPAAAAngAABZwAAAMeAAACDwAAAL0AAAWcAAADHgAAAAAAAAAAB4AAAAIPAAAAvQAABZwAAAMe"
+    },
+    "screen": {
+      "depth": 32,
+      "device_pixel_ratio": 1.0,
+      "geometry_in_logical_pixels": {
+        "height": 1080,
+        "width": 1920,
+        "x": 0,
+        "y": 0
+      },
+      "index_in_screens_list": 0,
+      "manufacturer": "",
+      "model": "",
+      "name": "\\\\.\\DISPLAY1",
+      "serial": "",
+      "size_in_logical_pixels": {
+        "height": 1080,
+        "width": 1920
+      },
+      "virtual_geometry": {
+        "height": 1080,
+        "width": 1920,
+        "x": 0,
+        "y": 0
+      }
+    }
+  },
+  "geometry-of-calibre_main_window_geometry": {
+    "frame_geometry": {
+      "height": 711,
+      "width": 940,
+      "x": 481,
+      "y": 111
+    },
+    "full_screened": false,
+    "geometry": {
+      "height": 680,
+      "width": 940,
+      "x": 481,
+      "y": 142
+    },
+    "maximized": false,
+    "normal_geometry": {
+      "height": 680,
+      "width": 940,
+      "x": 481,
+      "y": 142
+    },
+    "qt": {
+      "__class__": "bytearray",
+      "__value__": "AdnQywADAAAAAAHhAAAAbwAABYwAAAM1AAAB4QAAAI4AAAWMAAADNQAAAAAAAAAAB4AAAAHhAAAAjgAABYwAAAM1"
+    },
+    "screen": {
+      "depth": 32,
+      "device_pixel_ratio": 1.0,
+      "geometry_in_logical_pixels": {
+        "height": 1080,
+        "width": 1920,
+        "x": 0,
+        "y": 0
+      },
+      "index_in_screens_list": 0,
+      "manufacturer": "",
+      "model": "",
+      "name": "\\\\.\\DISPLAY1",
+      "serial": "",
+      "size_in_logical_pixels": {
+        "height": 1080,
+        "width": 1920
+      },
+      "virtual_geometry": {
+        "height": 1080,
+        "width": 1920,
+        "x": 0,
+        "y": 0
+      }
+    }
+  },
+  "geometry-of-choose-icon-theme-dialog-geometry": {
+    "frame_geometry": {
+      "height": 988,
+      "width": 900,
+      "x": 508,
+      "y": 0
+    },
+    "full_screened": false,
+    "geometry": {
+      "height": 957,
+      "width": 900,
+      "x": 508,
+      "y": 31
+    },
+    "maximized": false,
+    "normal_geometry": {
+      "height": 957,
+      "width": 900,
+      "x": 508,
+      "y": 31
+    },
+    "qt": {
+      "__class__": "bytearray",
+      "__value__": "AdnQywADAAAAAAH8AAAAAAAABX8AAAPbAAAB/AAAAB8AAAV/AAAD2wAAAAAAAAAAB4AAAAH8AAAAHwAABX8AAAPb"
+    },
+    "screen": {
+      "depth": 32,
+      "device_pixel_ratio": 1.0,
+      "geometry_in_logical_pixels": {
+        "height": 1080,
+        "width": 1920,
+        "x": 0,
+        "y": 0
+      },
+      "index_in_screens_list": 0,
+      "manufacturer": "",
+      "model": "",
+      "name": "\\\\.\\DISPLAY1",
+      "serial": "",
+      "size_in_logical_pixels": {
+        "height": 1080,
+        "width": 1920
+      },
+      "virtual_geometry": {
+        "height": 1080,
+        "width": 1920,
+        "x": 0,
+        "y": 0
+      }
+    }
+  },
+  "geometry-of-edit-author-mapping-rules-geometry": {
+    "frame_geometry": {
+      "height": 389,
+      "width": 922,
+      "x": 546,
+      "y": 314
+    },
+    "full_screened": false,
+    "geometry": {
+      "height": 358,
+      "width": 922,
+      "x": 546,
+      "y": 345
+    },
+    "maximized": false,
+    "normal_geometry": {
+      "height": 358,
+      "width": 922,
+      "x": 546,
+      "y": 345
+    },
+    "qt": {
+      "__class__": "bytearray",
+      "__value__": "AdnQywADAAAAAAIiAAABOgAABbsAAAK+AAACIgAAAVkAAAW7AAACvgAAAAAAAAAAB4AAAAIiAAABWQAABbsAAAK+"
+    },
+    "screen": {
+      "depth": 32,
+      "device_pixel_ratio": 1.0,
+      "geometry_in_logical_pixels": {
+        "height": 1080,
+        "width": 1920,
+        "x": 0,
+        "y": 0
+      },
+      "index_in_screens_list": 0,
+      "manufacturer": "",
+      "model": "",
+      "name": "\\\\.\\DISPLAY1",
+      "serial": "",
+      "size_in_logical_pixels": {
+        "height": 1080,
+        "width": 1920
+      },
+      "virtual_geometry": {
+        "height": 1080,
+        "width": 1920,
+        "x": 0,
+        "y": 0
+      }
+    }
+  },
+  "geometry-of-edit-tag-mapper-rules-geometry": {
+    "frame_geometry": {
+      "height": 389,
+      "width": 922,
+      "x": 546,
+      "y": 314
+    },
+    "full_screened": false,
+    "geometry": {
+      "height": 358,
+      "width": 922,
+      "x": 546,
+      "y": 345
+    },
+    "maximized": false,
+    "normal_geometry": {
+      "height": 358,
+      "width": 922,
+      "x": 546,
+      "y": 345
+    },
+    "qt": {
+      "__class__": "bytearray",
+      "__value__": "AdnQywADAAAAAAIiAAABOgAABbsAAAK+AAACIgAAAVkAAAW7AAACvgAAAAAAAAAAB4AAAAIiAAABWQAABbsAAAK+"
+    },
+    "screen": {
+      "depth": 32,
+      "device_pixel_ratio": 1.0,
+      "geometry_in_logical_pixels": {
+        "height": 1080,
+        "width": 1920,
+        "x": 0,
+        "y": 0
+      },
+      "index_in_screens_list": 0,
+      "manufacturer": "",
+      "model": "",
+      "name": "\\\\.\\DISPLAY1",
+      "serial": "",
+      "size_in_logical_pixels": {
+        "height": 1080,
+        "width": 1920
+      },
+      "virtual_geometry": {
+        "height": 1080,
+        "width": 1920,
+        "x": 0,
+        "y": 0
+      }
+    }
+  },
+  "geometry-of-exim-calibre-geometry": {
+    "frame_geometry": {
+      "height": 631,
+      "width": 800,
+      "x": 541,
+      "y": 142
+    },
+    "full_screened": false,
+    "geometry": {
+      "height": 600,
+      "width": 800,
+      "x": 541,
+      "y": 173
+    },
+    "maximized": false,
+    "normal_geometry": {
+      "height": 600,
+      "width": 800,
+      "x": 541,
+      "y": 173
+    },
+    "qt": {
+      "__class__": "bytearray",
+      "__value__": "AdnQywADAAAAAAIdAAAAjgAABTwAAAMEAAACHQAAAK0AAAU8AAADBAAAAAAAAAAAB4AAAAIdAAAArQAABTwAAAME"
+    },
+    "screen": {
+      "depth": 32,
+      "device_pixel_ratio": 1.0,
+      "geometry_in_logical_pixels": {
+        "height": 1080,
+        "width": 1920,
+        "x": 0,
+        "y": 0
+      },
+      "index_in_screens_list": 0,
+      "manufacturer": "",
+      "model": "",
+      "name": "\\\\.\\DISPLAY1",
+      "serial": "",
+      "size_in_logical_pixels": {
+        "height": 1080,
+        "width": 1920
+      },
+      "virtual_geometry": {
+        "height": 1080,
+        "width": 1920,
+        "x": 0,
+        "y": 0
+      }
+    }
+  },
+  "geometry-of-metadata_single_gui_geom": {
+    "frame_geometry": {
+      "height": 631,
+      "width": 850,
+      "x": 546,
+      "y": 105
+    },
+    "full_screened": false,
+    "geometry": {
+      "height": 600,
+      "width": 850,
+      "x": 546,
+      "y": 136
+    },
+    "maximized": false,
+    "normal_geometry": {
+      "height": 600,
+      "width": 850,
+      "x": 546,
+      "y": 136
+    },
+    "qt": {
+      "__class__": "bytearray",
+      "__value__": "AdnQywADAAAAAAIiAAAAaQAABXMAAALfAAACIgAAAIgAAAVzAAAC3wAAAAAAAAAAB4AAAAIiAAAAiAAABXMAAALf"
+    },
+    "screen": {
+      "depth": 32,
+      "device_pixel_ratio": 1.0,
+      "geometry_in_logical_pixels": {
+        "height": 1080,
+        "width": 1920,
+        "x": 0,
+        "y": 0
+      },
+      "index_in_screens_list": 0,
+      "manufacturer": "",
+      "model": "",
+      "name": "\\\\.\\DISPLAY1",
+      "serial": "",
+      "size_in_logical_pixels": {
+        "height": 1080,
+        "width": 1920
+      },
+      "virtual_geometry": {
+        "height": 1080,
+        "width": 1920,
+        "x": 0,
+        "y": 0
+      }
+    }
+  },
+  "geometry-of-metasingle_window_geometry3": {
+    "frame_geometry": {
+      "height": 568,
+      "width": 1018,
+      "x": 472,
+      "y": 146
+    },
+    "full_screened": false,
+    "geometry": {
+      "height": 537,
+      "width": 1018,
+      "x": 472,
+      "y": 177
+    },
+    "maximized": false,
+    "normal_geometry": {
+      "height": 537,
+      "width": 1018,
+      "x": 472,
+      "y": 177
+    },
+    "qt": {
+      "__class__": "bytearray",
+      "__value__": "AdnQywADAAAAAAHYAAAAkgAABdEAAALJAAAB2AAAALEAAAXRAAACyQAAAAAAAAAAB4AAAAHYAAAAsQAABdEAAALJ"
+    },
+    "screen": {
+      "depth": 32,
+      "device_pixel_ratio": 1.0,
+      "geometry_in_logical_pixels": {
+        "height": 1080,
+        "width": 1920,
+        "x": 0,
+        "y": 0
+      },
+      "index_in_screens_list": 0,
+      "manufacturer": "",
+      "model": "",
+      "name": "\\\\.\\DISPLAY1",
+      "serial": "",
+      "size_in_logical_pixels": {
+        "height": 1080,
+        "width": 1920
+      },
+      "virtual_geometry": {
+        "height": 1080,
+        "width": 1920,
+        "x": 0,
+        "y": 0
+      }
+    }
+  },
+  "geometry-of-preferences dialog geometry": {
+    "frame_geometry": {
+      "height": 622,
+      "width": 868,
+      "x": 528,
+      "y": 144
+    },
+    "full_screened": false,
+    "geometry": {
+      "height": 591,
+      "width": 868,
+      "x": 528,
+      "y": 175
+    },
+    "maximized": false,
+    "normal_geometry": {
+      "height": 591,
+      "width": 868,
+      "x": 528,
+      "y": 175
+    },
+    "qt": {
+      "__class__": "bytearray",
+      "__value__": "AdnQywADAAAAAAIQAAAAkAAABXMAAAL9AAACEAAAAK8AAAVzAAAC/QAAAAAAAAAAB4AAAAIQAAAArwAABXMAAAL9"
+    },
+    "screen": {
+      "depth": 32,
+      "device_pixel_ratio": 1.0,
+      "geometry_in_logical_pixels": {
+        "height": 1080,
+        "width": 1920,
+        "x": 0,
+        "y": 0
+      },
+      "index_in_screens_list": 0,
+      "manufacturer": "",
+      "model": "",
+      "name": "\\\\.\\DISPLAY1",
+      "serial": "",
+      "size_in_logical_pixels": {
+        "height": 1080,
+        "width": 1920
+      },
+      "virtual_geometry": {
+        "height": 1080,
+        "width": 1920,
+        "x": 0,
+        "y": 0
+      }
+    }
+  },
+  "geometry-of-quickview_dialog_geometry": {
+    "frame_geometry": {
+      "height": 297,
+      "width": 1062,
+      "x": 398,
+      "y": 297
+    },
+    "full_screened": false,
+    "geometry": {
+      "height": 266,
+      "width": 1062,
+      "x": 398,
+      "y": 328
+    },
+    "maximized": false,
+    "normal_geometry": {
+      "height": 266,
+      "width": 1062,
+      "x": 398,
+      "y": 328
+    },
+    "qt": {
+      "__class__": "bytearray",
+      "__value__": "AdnQywADAAAAAAGOAAABKQAABbMAAAJRAAABjgAAAUgAAAWzAAACUQAAAAAAAAAAB4AAAAGOAAABSAAABbMAAAJR"
+    },
+    "screen": {
+      "depth": 32,
+      "device_pixel_ratio": 1.0,
+      "geometry_in_logical_pixels": {
+        "height": 1080,
+        "width": 1920,
+        "x": 0,
+        "y": 0
+      },
+      "index_in_screens_list": 0,
+      "manufacturer": "",
+      "model": "",
+      "name": "\\\\.\\DISPLAY1",
+      "serial": "",
+      "size_in_logical_pixels": {
+        "height": 1080,
+        "width": 1920
+      },
+      "virtual_geometry": {
+        "height": 1080,
+        "width": 1920,
+        "x": 0,
+        "y": 0
+      }
+    }
+  },
+  "gpm_template_editor_font": "Segoe UI",
+  "gpm_template_editor_word_wrap_mode": true,
+  "grid view visible": true,
+  "library_usage_stats": {
+    "E:/30 Resources/37 Finished Library": 21
+  },
+  "quick_start_guide_added": true,
+  "quickview visible": false,
+  "quickview_dialog_books_table_widths": [
+    267,
+    267,
+    267
+  ],
+  "recently_used_languages": [],
+  "search bar visible": true,
+  "show_emblems": false,
+  "tag browser search box visible": false,
+  "tag_browser_splitter_horizontal_state": [
+    true,
+    188
+  ],
+  "tb_search_order": {
+    "0": 1,
+    "1": 2,
+    "2": 3,
+    "3": 4,
+    "4": 0
+  },
+  "template_functions_prefs_st_show_help": true,
+  "template_functions_prefs_tf_show_help": true,
+  "toolbar_icon_size": "medium",
+  "toolbar_text": "always",
+  "ui_style": "calibre",
+  "windows_register_default_programs": "6.10.0"
+}

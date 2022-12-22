@@ -1,16 +1,12 @@
 {
   "folders": [
-    {
-      "path": "../../Desktop/The-Odin-Assignments"
-    },
-    {
-      "path": "../../Desktop/The-Odin-Journey"
-    },
-    {
-      "path": "../../Desktop/The-Odin-Supplemental"
-    }
-  ],
-  "settings": {
-    "liveServer.settings.multiRootWorkspaceName": "The-Odin-Journey"
-  }
+	{
+		"path": "../../Downloads/tic-tac-toe"
+	},
+	{
+		"name": "raineedust",
+		"path": "../../Downloads/raineedust"
+	}
+],
+  "settings": {}
 }

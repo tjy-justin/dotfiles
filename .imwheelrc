@@ -1,18 +1,36 @@
 # This dotfile fixes scrolling issues with Chromium- or Electron-based apps.
 
 # Add imwheel as Startup Program:
-# imwheel -b "45"
+# killall imwheel -b "45"
 
 # Execute the following command after changing config:
-# killall imwheel
+# killall imwheel && imwheel -b "45"
 
 "-chrome"
-"-chromium"
-"code"
-"obsidian"
-"onlyoffice"
-"sublime_text"
+None,      Up,   Button4, 3
+None,      Down, Button5, 3
+Shift_L,   Up,   Shift_L|Button4
+Shift_L,   Down, Shift_L|Button5
+Control_L, Up,   Control_L|Button4
+Control_L, Down, Control_L|Button5
 
+"code"
+None,      Up,   Button4, 3
+None,      Down, Button5, 3
+Shift_L,   Up,   Shift_L|Button4
+Shift_L,   Down, Shift_L|Button5
+Control_L, Up,   Control_L|Button4
+Control_L, Down, Control_L|Button5
+
+"obsidian"
+None,      Up,   Button4, 3
+None,      Down, Button5, 3
+Shift_L,   Up,   Shift_L|Button4
+Shift_L,   Down, Shift_L|Button5
+Control_L, Up,   Control_L|Button4
+Control_L, Down, Control_L|Button5
+
+"onlyoffice"
 None,      Up,   Button4, 3
 None,      Down, Button5, 3
 Shift_L,   Up,   Shift_L|Button4

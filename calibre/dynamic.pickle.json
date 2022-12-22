@@ -1,0 +1,24 @@
+{
+  "database location dialog": "E:\\30 Resources\\37 Finished Library",
+  "save to disk dialog": "C:\\Users\\Justin\\Downloads",
+  "sort_history": [
+    [
+      "title",
+      true
+    ],
+    [
+      "timestamp",
+      false
+    ],
+    [
+      "title",
+      true
+    ],
+    [
+      "timestamp",
+      false
+    ]
+  ],
+  "welcome_wizard_device": "default",
+  "welcome_wizard_was_run": true
+}

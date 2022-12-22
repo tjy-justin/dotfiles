@@ -1,0 +1,12 @@
+{
+  "cover_priorities": {
+    "Big Book Search": 2,
+    "Goodreads": 2,
+    "Google": 2,
+    "Google Images": 2
+  },
+  "ignore_fields": [
+    "rating"
+  ],
+  "max_tags": 10
+}
