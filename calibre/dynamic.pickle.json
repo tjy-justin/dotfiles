@@ -1,5 +1,17 @@
 {
+  "add books dialog dir": "C:\\Users\\Justin\\Downloads",
+  "add books dialog dir-last-used-filter-spec-all-files": false,
+  "choose library location": "D:\\30 Resources\\31 Reading Library",
+  "choose-open-with-program-manually-win": "C:\\Program Files\\SumatraPDF",
   "database location dialog": "E:\\30 Resources\\37 Finished Library",
+  "notified-version-updates": {
+    "__class__": "set",
+    "__value__": [
+      "6.11",
+      "6.12",
+      "6.13"
+    ]
+  },
   "save to disk dialog": "C:\\Users\\Justin\\Downloads",
   "sort_history": [
     [

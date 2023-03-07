@@ -1,12 +1,14 @@
 {
   "folders": [
-	{
-		"path": "../../Downloads/tic-tac-toe"
-	},
-	{
-		"name": "raineedust",
-		"path": "../../Downloads/raineedust"
-	}
-],
-  "settings": {}
+    {
+      "path": "../../Downloads/tic-tac-toe"
+    },
+    {
+      "name": "raineedust",
+      "path": "../../Downloads/raineedust"
+    }
+  ],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "tic-tac-toe"
+  }
 }

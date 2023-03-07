@@ -1,0 +1,498 @@
+{
+  "geometry-of-configure-viewer-toolbar-geometry": {
+    "frame_geometry": {
+      "height": 548,
+      "width": 618,
+      "x": 1121,
+      "y": 233
+    },
+    "full_screened": false,
+    "geometry": {
+      "height": 517,
+      "width": 618,
+      "x": 1121,
+      "y": 264
+    },
+    "maximized": false,
+    "normal_geometry": {
+      "height": 517,
+      "width": 618,
+      "x": 1121,
+      "y": 264
+    },
+    "qt": {
+      "__class__": "bytearray",
+      "__value__": "AdnQywADAAAAAARhAAAA6QAABsoAAAMMAAAEYQAAAQgAAAbKAAADDAAAAAAAAAAAB4AAAARhAAABCAAABsoAAAMM"
+    },
+    "screen": {
+      "depth": 32,
+      "device_pixel_ratio": 1.0,
+      "geometry_in_logical_pixels": {
+        "height": 1080,
+        "width": 1920,
+        "x": 0,
+        "y": 0
+      },
+      "index_in_screens_list": 0,
+      "manufacturer": "",
+      "model": "",
+      "name": "\\\\.\\DISPLAY1",
+      "serial": "",
+      "size_in_logical_pixels": {
+        "height": 1080,
+        "width": 1920
+      },
+      "virtual_geometry": {
+        "height": 1080,
+        "width": 1920,
+        "x": 0,
+        "y": 0
+      }
+    }
+  },
+  "geometry-of-main_window_geometry": {
+    "frame_geometry": {
+      "height": 1031,
+      "width": 958,
+      "x": 961,
+      "y": 0
+    },
+    "full_screened": false,
+    "geometry": {
+      "height": 1000,
+      "width": 958,
+      "x": 961,
+      "y": 31
+    },
+    "maximized": false,
+    "normal_geometry": {
+      "height": 1000,
+      "width": 958,
+      "x": 961,
+      "y": 31
+    },
+    "qt": {
+      "__class__": "bytearray",
+      "__value__": "AdnQywADAAAAAAPBAAAAAAAAB34AAAQGAAADwQAAAB8AAAd+AAAEBgAAAAAAAAAAB4AAAAPBAAAAHwAAB34AAAQG"
+    },
+    "screen": {
+      "depth": 32,
+      "device_pixel_ratio": 1.0,
+      "geometry_in_logical_pixels": {
+        "height": 1080,
+        "width": 1920,
+        "x": 0,
+        "y": 0
+      },
+      "index_in_screens_list": 0,
+      "manufacturer": "",
+      "model": "",
+      "name": "\\\\.\\DISPLAY1",
+      "serial": "",
+      "size_in_logical_pixels": {
+        "height": 1080,
+        "width": 1920
+      },
+      "virtual_geometry": {
+        "height": 1080,
+        "width": 1920,
+        "x": 0,
+        "y": 0
+      }
+    }
+  },
+  "geometry-of-viewer_image_popup_geometry": {
+    "frame_geometry": {
+      "height": 957,
+      "width": 703,
+      "x": 599,
+      "y": 30
+    },
+    "full_screened": false,
+    "geometry": {
+      "height": 926,
+      "width": 703,
+      "x": 599,
+      "y": 61
+    },
+    "maximized": false,
+    "normal_geometry": {
+      "height": 926,
+      "width": 703,
+      "x": 599,
+      "y": 61
+    },
+    "qt": {
+      "__class__": "bytearray",
+      "__value__": "AdnQywADAAAAAAJXAAAAHgAABRUAAAPaAAACVwAAAD0AAAUVAAAD2gAAAAAAAAAAB4AAAAJXAAAAPQAABRUAAAPa"
+    },
+    "screen": {
+      "depth": 32,
+      "device_pixel_ratio": 1.0,
+      "geometry_in_logical_pixels": {
+        "height": 1080,
+        "width": 1920,
+        "x": 0,
+        "y": 0
+      },
+      "index_in_screens_list": 0,
+      "manufacturer": "",
+      "model": "",
+      "name": "\\\\.\\DISPLAY1",
+      "serial": "",
+      "size_in_logical_pixels": {
+        "height": 1080,
+        "width": 1920
+      },
+      "virtual_geometry": {
+        "height": 1080,
+        "width": 1920,
+        "x": 0,
+        "y": 0
+      }
+    }
+  },
+  "image_popup_fit_image": false,
+  "local_storage": {
+    "simple_input_history_net_search_url": [
+      "https://google.com/search?q={q}"
+    ]
+  },
+  "main_window_state": {
+    "__class__": "bytearray",
+    "__value__": "AAAA/wAAAAH9AAAAAgAAAAAAAAEAAAAD6PwCAAAAAvsAAAAQAHQAbwBjAC0AZABvAGMAawAAAAAAAAAD6AAAAIcA////+wAAABYAcwBlAGEAcgBjAGgALQBkAG8AYwBrAAAAAAAAAAPoAAAAlQD///8AAAABAAAAAAAAAAD8AgAAAAT7AAAAFgBsAG8AbwBrAHUAcAAtAGQAbwBjAGsAAAAAAP////8AAAB9AP////sAAAAcAGIAbwBvAGsAbQBhAHIAawBzAC0AZABvAGMAawAAAAAA/////wAAAOcA////+wAAABwAaQBuAHMAcABlAGMAdABvAHIALQBkAG8AYwBrAAAAAAD/////AAAAEwD////7AAAAHgBoAGkAZwBoAGwAaQBnAGgAdABzAC0AZABvAGMAawAAAAAA/////wAAAMkA////AAADvgAAA+gAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAAAAAAAAQAAAB4AYQBjAHQAaQBvAG4AcwBfAHQAbwBvAGwAYgBhAHICAAAAAP////8AAAAAAAAAAA=="
+  },
+  "old_prefs_migrated": true,
+  "saved-search-settings": {
+    "consistency": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "economic weighting": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "egoic dysfunction": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "isbn": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "socially": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "socially vibrant": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "vibrant": {
+      "case_sensitive": false,
+      "mode": "normal"
+    }
+  },
+  "session_data": {
+    "base_font_size": 19,
+    "controls_footer": {
+      "left": "empty",
+      "middle": "empty",
+      "right": "empty"
+    },
+    "controls_help_shown_count": 2,
+    "current_color_scheme": "*Foliate Nord",
+    "footer": {
+      "left": "progress",
+      "middle": "empty",
+      "right": "top-section"
+    },
+    "header": {
+      "left": "empty",
+      "middle": "empty",
+      "right": "empty"
+    },
+    "hide_tooltips": null,
+    "left-margin": {
+      "left": "empty",
+      "middle": "empty",
+      "right": "empty"
+    },
+    "margin_bottom": 60,
+    "margin_left": 65,
+    "margin_right": 65,
+    "margin_top": 60,
+    "override_book_colors": "dark",
+    "right-margin": {
+      "left": "empty",
+      "middle": "empty",
+      "right": "empty"
+    },
+    "selection_bar_actions": [
+      "search",
+      "lookup",
+      "highlight",
+      "remove_highlight"
+    ],
+    "standalone_font_settings": {
+      "standard_font": "sans"
+    },
+    "standalone_misc_settings": {
+      "remember_window_geometry": true
+    },
+    "standalone_recently_opened": [
+      {
+        "authors": [
+          "Bill Bryson"
+        ],
+        "key": "D:\\30 Resources\\31 Reading Library\\Bill Bryson\\A Short History of Nearly Everythin (184)\\A Short History of Nearly Every - Bill Bryson.epub",
+        "pathtoebook": "D:\\30 Resources\\31 Reading Library\\Bill Bryson\\A Short History of Nearly Everythin (184)\\A Short History of Nearly Every - Bill Bryson.epub",
+        "timestamp": "2023-03-04T12:56:01.679Z",
+        "title": "A Short History of Nearly Everything"
+      },
+      {
+        "authors": [
+          "Lucy Knisley"
+        ],
+        "key": "C:\\Users\\Justin\\Downloads\\Relish My Life in the Kitchen (Z-Library).azw3",
+        "pathtoebook": "C:\\Users\\Justin\\Downloads\\Relish My Life in the Kitchen (Z-Library).azw3",
+        "timestamp": "2023-03-04T12:12:31.449Z",
+        "title": "Relish: My Life in the Kitchen"
+      },
+      {
+        "authors": [
+          "Benjamin Hoff"
+        ],
+        "key": "C:\\Users\\Justin\\Downloads\\The Tao of Pooh (Z-Library).epub",
+        "pathtoebook": "C:\\Users\\Justin\\Downloads\\The Tao of Pooh (Z-Library).epub",
+        "timestamp": "2023-02-28T13:07:00.398Z",
+        "title": "The Tao of Pooh"
+      },
+      {
+        "authors": [
+          "Stephen Hawking"
+        ],
+        "key": "D:\\30 Resources\\31 Reading Library\\Stephen Hawking\\Brief Answers to the Big Questions (170)\\Brief Answers to the Big Questi - Stephen Hawking.epub",
+        "pathtoebook": "D:\\30 Resources\\31 Reading Library\\Stephen Hawking\\Brief Answers to the Big Questions (170)\\Brief Answers to the Big Questi - Stephen Hawking.epub",
+        "timestamp": "2023-02-28T08:41:25.704Z",
+        "title": "Brief Answers to the Big Questions"
+      },
+      {
+        "authors": [
+          "Stephen Hawking"
+        ],
+        "key": "C:\\Users\\Justin\\Downloads\\Telegram Desktop\\Brief Answers to the Big Questions (Z-Library).epub",
+        "pathtoebook": "C:\\Users\\Justin\\Downloads\\Telegram Desktop\\Brief Answers to the Big Questions (Z-Library).epub",
+        "timestamp": "2023-02-28T08:35:23.738Z",
+        "title": "Brief Answers to the Big Questions"
+      },
+      {
+        "authors": [
+          "Will Larson"
+        ],
+        "key": "C:\\Users\\Justin\\Downloads\\Telegram Desktop\\An Elegant Puzzle Systems of Engineer... (z-lib.org).azw3",
+        "pathtoebook": "C:\\Users\\Justin\\Downloads\\Telegram Desktop\\An Elegant Puzzle Systems of Engineer... (z-lib.org).azw3",
+        "timestamp": "2023-02-14T12:31:51.510Z",
+        "title": "An Elegant Puzzle: Systems of Engineering Management"
+      },
+      {
+        "authors": [
+          "Eckhart Tolle"
+        ],
+        "key": "D:\\30 Resources\\31 Reading Library\\Eckhart Tolle\\A New Earth_ Awakening to Your Life (161)\\A New Earth_ Awakening to Your - Eckhart Tolle.epub",
+        "pathtoebook": "D:\\30 Resources\\31 Reading Library\\Eckhart Tolle\\A New Earth_ Awakening to Your Life (161)\\A New Earth_ Awakening to Your - Eckhart Tolle.epub",
+        "timestamp": "2023-02-11T14:57:41.060Z",
+        "title": "A New Earth: Awakening to Your Life's Purpose"
+      },
+      {
+        "authors": [
+          "David Foster Wallace"
+        ],
+        "key": "C:\\Users\\Justin\\Downloads\\Telegram Desktop\\This Is Water (z-lib.org) (2).mobi",
+        "pathtoebook": "C:\\Users\\Justin\\Downloads\\Telegram Desktop\\This Is Water (z-lib.org) (2).mobi",
+        "timestamp": "2023-02-10T08:44:46.439Z",
+        "title": "This Is Water: Some Thoughts, Delivered on a Significant Occasion, About Living a Compassionate Life"
+      },
+      {
+        "authors": [
+          "David Foster Wallace"
+        ],
+        "key": "C:\\Users\\Justin\\Downloads\\Telegram Desktop\\This Is Water Some Thoughts, Delivere... (z-lib.org) (2).azw3",
+        "pathtoebook": "C:\\Users\\Justin\\Downloads\\Telegram Desktop\\This Is Water Some Thoughts, Delivere... (z-lib.org) (2).azw3",
+        "timestamp": "2023-02-10T08:42:16.877Z",
+        "title": "This Is Water: Some Thoughts, Delivered on a Significant Occasion, About Living a Compassionate Life"
+      },
+      {
+        "authors": [
+          "Eckhart Tolle"
+        ],
+        "key": "D:\\30 Resources\\30 Meta\\A New Earth_ Awakening to Your Life's Pu (8190)\\A New Earth_ Awakening to Your  - Eckhart Tolle.azw3",
+        "pathtoebook": "D:\\30 Resources\\30 Meta\\A New Earth_ Awakening to Your Life's Pu (8190)\\A New Earth_ Awakening to Your  - Eckhart Tolle.azw3",
+        "timestamp": "2023-01-31T12:56:07.920Z",
+        "title": "A New Earth: Awakening to Your Life's Purpose"
+      },
+      {
+        "authors": [
+          "Krug, Steve"
+        ],
+        "key": "C:\\Users\\Justin\\Downloads\\Telegram Desktop\\Dont Make Me Think, Revisited A Commo... (z-lib.org).epub",
+        "pathtoebook": "C:\\Users\\Justin\\Downloads\\Telegram Desktop\\Dont Make Me Think, Revisited A Commo... (z-lib.org).epub",
+        "timestamp": "2023-01-16T18:05:47.810Z",
+        "title": "Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability (3rd Edition) (Voices That Matter)"
+      },
+      {
+        "authors": [
+          "Camille Fournier"
+        ],
+        "key": "D:\\30 Resources\\30 Meta\\The Manager’s Path A Guide for Tech Leaders Navigating Growth and Change.azw3",
+        "pathtoebook": "D:\\30 Resources\\30 Meta\\The Manager’s Path A Guide for Tech Leaders Navigating Growth and Change.azw3",
+        "timestamp": "2023-01-16T11:20:20.202Z",
+        "title": "The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change"
+      },
+      {
+        "authors": [
+          "Michael E. Gerber"
+        ],
+        "key": "D:\\30 Resources\\31 Reading Library\\Michael E. Gerber\\The E-Myth Revisited_ Why Most Smal (144)\\The E-Myth Revisited_ Why Most - Michael E. Gerber.epub",
+        "pathtoebook": "D:\\30 Resources\\31 Reading Library\\Michael E. Gerber\\The E-Myth Revisited_ Why Most Smal (144)\\The E-Myth Revisited_ Why Most - Michael E. Gerber.epub",
+        "timestamp": "2023-01-15T13:52:28.224Z",
+        "title": "The E-Myth Revisited"
+      },
+      {
+        "authors": [
+          "Michael E. Gerber"
+        ],
+        "key": "C:\\Users\\Justin\\Downloads\\Telegram Desktop\\The E-Myth Revisited (z-lib.org).epub",
+        "pathtoebook": "C:\\Users\\Justin\\Downloads\\Telegram Desktop\\The E-Myth Revisited (z-lib.org).epub",
+        "timestamp": "2023-01-14T16:08:42.057Z",
+        "title": "The E-Myth Revisited"
+      },
+      {
+        "authors": [
+          "Kristy Shen",
+          "Bryce Leung"
+        ],
+        "key": "D:\\30 Resources\\31 Reading Library\\Kristy Shen\\Quit Like a Millionaire_ No Gimmick (104)\\Quit Like a Millionaire_ No Gim - Kristy Shen.epub",
+        "pathtoebook": "D:\\30 Resources\\31 Reading Library\\Kristy Shen\\Quit Like a Millionaire_ No Gimmick (104)\\Quit Like a Millionaire_ No Gim - Kristy Shen.epub",
+        "timestamp": "2023-01-14T07:51:57.010Z",
+        "title": "Quit Like a Millionaire: No Gimmicks, Luck, or Trust Fund Required"
+      },
+      {
+        "authors": [
+          "Don Norman"
+        ],
+        "key": "C:\\Users\\Justin\\Downloads\\Don Norman - The Design of Everyday Things.epub",
+        "pathtoebook": "C:\\Users\\Justin\\Downloads\\Don Norman - The Design of Everyday Things.epub",
+        "timestamp": "2023-01-14T06:44:56.910Z",
+        "title": "The Design of Everyday Things: Revised and Expanded Edition"
+      },
+      {
+        "authors": [
+          "Merlin Sheldrake"
+        ],
+        "key": "C:\\Users\\Justin\\Downloads\\Entangled Life How Fungi Make Our Worlds, Chang... (z-lib.org).epub",
+        "pathtoebook": "C:\\Users\\Justin\\Downloads\\Entangled Life How Fungi Make Our Worlds, Chang... (z-lib.org).epub",
+        "timestamp": "2023-01-10T07:01:05.737Z",
+        "title": "Entangled Life: How Fungi Make Our Worlds, Change Our Minds & Shape Our Futures"
+      },
+      {
+        "authors": [
+          "Sepp Holzer"
+        ],
+        "key": "D:\\30 Resources\\31 Reading Library\\Sepp Holzer\\Sepp Holzer's Permaculture (123)\\Sepp Holzer's Permaculture - Sepp Holzer.epub",
+        "pathtoebook": "D:\\30 Resources\\31 Reading Library\\Sepp Holzer\\Sepp Holzer's Permaculture (123)\\Sepp Holzer's Permaculture - Sepp Holzer.epub",
+        "timestamp": "2023-01-07T19:49:05.133Z",
+        "title": "Sepp Holzer's Permaculture"
+      },
+      {
+        "authors": [
+          "Toby Hemenway"
+        ],
+        "key": "D:\\30 Resources\\31 Reading Library\\Toby Hemenway\\Gaia's Garden (122)\\Gaia's Garden - Toby Hemenway.epub",
+        "pathtoebook": "D:\\30 Resources\\31 Reading Library\\Toby Hemenway\\Gaia's Garden (122)\\Gaia's Garden - Toby Hemenway.epub",
+        "timestamp": "2023-01-07T16:19:41.827Z",
+        "title": "Gaia's Garden"
+      },
+      {
+        "authors": [
+          "Don Norman"
+        ],
+        "key": "C:\\Users\\Justin\\Downloads\\Don Norman - The Design of Everyday Things.azw3",
+        "pathtoebook": "C:\\Users\\Justin\\Downloads\\Don Norman - The Design of Everyday Things.azw3",
+        "timestamp": "2023-01-07T13:39:44.119Z",
+        "title": "The Design of Everyday Things: Revised and Expanded Edition"
+      },
+      {
+        "authors": [
+          "Pollan, Michael"
+        ],
+        "key": "D:\\30 Resources\\30 Meta\\Omnivore's Dilemma_ A Natural History of Four Meals, The\\Omnivore's Dilemma_ A Natural History of Four Meals, The - Pollan, Michael.mobi",
+        "pathtoebook": "D:\\30 Resources\\30 Meta\\Omnivore's Dilemma_ A Natural History of Four Meals, The\\Omnivore's Dilemma_ A Natural History of Four Meals, The - Pollan, Michael.mobi",
+        "timestamp": "2023-01-07T13:07:09.153Z",
+        "title": "The Omnivore's Dilemma: A Natural History of Four Meals"
+      },
+      {
+        "authors": [
+          "Eckhart Tolle"
+        ],
+        "key": "C:\\Users\\Justin\\Downloads\\the-power-of-now-a-guide-to-spiritual-eckhart-2010--annas-archive--libgenrs-nf-3285913.epub",
+        "pathtoebook": "C:\\Users\\Justin\\Downloads\\the-power-of-now-a-guide-to-spiritual-eckhart-2010--annas-archive--libgenrs-nf-3285913.epub",
+        "timestamp": "2023-01-06T13:11:10.380Z",
+        "title": "The Power of Now: A Guide to Spiritual Enlightenment"
+      },
+      {
+        "authors": [
+          "Eckhart Tolle"
+        ],
+        "key": "D:\\30 Resources\\31 Reading Library\\Eckhart Tolle\\The Power of Now (27)\\The Power of Now - Eckhart Tolle.mobi",
+        "pathtoebook": "D:\\30 Resources\\31 Reading Library\\Eckhart Tolle\\The Power of Now (27)\\The Power of Now - Eckhart Tolle.mobi",
+        "timestamp": "2023-01-06T13:02:42.734Z",
+        "title": "The Power of Now"
+      },
+      {
+        "authors": [
+          "Brené Brown"
+        ],
+        "key": "D:\\30 Resources\\31 Reading Library\\Brene Brown\\Dare to Lead_ Brave Work. Tough Con (114)\\Dare to Lead_ Brave Work. Tough - Brene Brown.epub",
+        "pathtoebook": "D:\\30 Resources\\31 Reading Library\\Brene Brown\\Dare to Lead_ Brave Work. Tough Con (114)\\Dare to Lead_ Brave Work. Tough - Brene Brown.epub",
+        "timestamp": "2023-01-06T12:13:22.139Z",
+        "title": "Dare to Lead: Brave Work. Tough Conversations. Whole Hearts."
+      },
+      {
+        "authors": [
+          "Vicki Robin",
+          "Joe Dominguez"
+        ],
+        "key": "D:\\30 Resources\\30 Meta\\Vicki Robin - Your Money or Your Life... Fully Revised and Updated for 2018.azw3",
+        "pathtoebook": "D:\\30 Resources\\30 Meta\\Vicki Robin - Your Money or Your Life... Fully Revised and Updated for 2018.azw3",
+        "timestamp": "2023-01-06T09:54:11.841Z",
+        "title": "Your Money or Your Life: 9 Steps to Transforming Your Relationship with Money and Achieving Financial Independence: Fully Revised and Updated for 2018"
+      }
+    ],
+    "user_color_schemes": {
+      "*Foliate Dark": {
+        "background": "#292929",
+        "foreground": "#dddddd",
+        "is_dark_theme": true,
+        "link": "#6495ed",
+        "name": "Foliate Dark"
+      },
+      "*Foliate Nord": {
+        "background": "#2e3440",
+        "foreground": "#d8dee9",
+        "link": "#88c0d0",
+        "name": "Foliate Nord"
+      },
+      "*Foliate Sepia": {
+        "background": "#efe7dd",
+        "foreground": "#5b4636",
+        "is_dark_theme": false,
+        "link": "#008b8b",
+        "name": "Foliate Sepia"
+      }
+    },
+    "user_stylesheet": "* {\n  font-family: \"Inter\", \"Source Sans 3\" !important;\n}\n\n::selection {\n  background: #9CC3F5FF;\n}\n\np {\n  letter-spacing: 0.1px !important;\n  line-height: 30px !important;\n  text-indent: 30px !important;\n}\n\nh1, h2, h3, h4, h5, h6 {\n  font-weight: bold !important;\n  line-height: 30px !important;\n  text-align: center !important;\n}"
+  },
+  "viewer-search-case-sensitive": false,
+  "viewer-search-mode": "normal"
+}

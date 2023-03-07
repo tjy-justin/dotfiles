@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>lineedit_history_choose_library_dialog</key>
+	<array>
+		<string>D:\30 Resources\31 Reading Library</string>
+		<string>E:\30 Resources\31 Reading Library</string>
+	</array>
+	<key>lineedit_history_viewer-search-panel-expression</key>
+	<array>
+		<string>isbn</string>
+		<string>egoic dysfunction</string>
+		<string>economic weighting</string>
+		<string>socially</string>
+		<string>consistency</string>
+		<string>vibrant</string>
+		<string>socially vibrant</string>
+	</array>
+</dict>
+</plist>

@@ -12,6 +12,7 @@
   "filetype_mapping": {},
   "plugin_customization": {},
   "plugins": {
+    "Extract ISBN": "C:\\Users\\Justin\\AppData\\Roaming\\calibre\\plugins\\Extract ISBN.zip",
     "Goodreads": "C:\\Users\\Justin\\AppData\\Roaming\\calibre\\plugins\\Goodreads.zip",
     "Kindle hi-res covers": "C:\\Users\\Justin\\AppData\\Roaming\\calibre\\plugins\\Kindle hi-res covers.zip",
     "Quality Check": "C:\\Users\\Justin\\AppData\\Roaming\\calibre\\plugins\\Quality Check.zip"

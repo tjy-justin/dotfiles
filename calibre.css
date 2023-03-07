@@ -1,18 +1,14 @@
 * {
-  font-family: "Inter", "IBM Plex Serif", "JetBrainsMono NF" !important;
+  font-family: "Inter", "Source Sans 3" !important;
 }
 
 ::selection {
-  background: #5697a3;
-}
-
-body {
-  margin: 30px 40px 30px 40px;
+  background: #9CC3F5FF;
 }
 
 p {
   letter-spacing: 0.1px !important;
-  line-height: 25px !important;
+  line-height: 30px !important;
   text-indent: 20px !important;
 }
 
@@ -22,7 +18,9 @@ h1, h2, h3, h4, h5, h6 {
   text-align: center !important;
 }
 
-/* !!! Default Foliate themes below for reference ONLY, DON’T COPY:
+/* Alt. selection color for dark bg: #536685FF
+
+/* WARNING: Default Foliate Reader themes below for reference ONLY, DON’T COPY:
 
 const defaultThemes = [
     {
